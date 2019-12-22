@@ -13,6 +13,7 @@
 		1853158223AF77720018541B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1853158123AF77720018541B /* Assets.xcassets */; };
 		1853158523AF77720018541B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1853158323AF77720018541B /* LaunchScreen.storyboard */; };
 		1853158D23AF77A30018541B /* myModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1853158C23AF77A30018541B /* myModel.swift */; };
+		1853159523AF9C2C0018541B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1853159423AF9C2C0018541B /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1853158423AF77720018541B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1853158623AF77720018541B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1853158C23AF77A30018541B /* myModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myModel.swift; sourceTree = "<group>"; };
+		1853159423AF9C2C0018541B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1853158323AF77720018541B /* LaunchScreen.storyboard */,
 				1853158623AF77720018541B /* Info.plist */,
 				1853158C23AF77A30018541B /* myModel.swift */,
+				1853159423AF9C2C0018541B /* DetailViewController.swift */,
 			);
 			path = BookShoppingMall;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				1853157D23AF77700018541B /* ViewController.swift in Sources */,
 				1853157B23AF77700018541B /* AppDelegate.swift in Sources */,
 				1853158D23AF77A30018541B /* myModel.swift in Sources */,
+				1853159523AF9C2C0018541B /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
